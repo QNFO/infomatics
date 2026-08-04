@@ -64,3 +64,20 @@ QNFO Unified License Agreement (QNFO-ULA v2.0): https://legal.qnfo.org/
 | Zenodo DOI | ⏳ | Pending Phase 5 (Publication) |
 
 *Created: 2026-07-19 | Protocol: research v2.4*
+
+
+---
+
+## Consolidation (2026-08-04)
+
+This repository is the program home for **infomatics**. The content above is the original base
+repository (`infomatics`). The following project repos were merged in via `git subtree`
+(history preserved):
+
+| Project repo | Subdirectory |
+|---|---|
+| `infomatics-v2` | `infomatics-v2/` |
+| `informational-universe` | `informational-universe/` |
+| `qnfo-photon-audit` | `qnfo-photon-audit/` |
+
+See [PROVENANCE.md](PROVENANCE.md) for the full mapping.
