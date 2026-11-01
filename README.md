@@ -46,7 +46,7 @@ infomatics/
 
 ## License
 
-QNFO Unified License Agreement (QNFO-ULA v2.0): https://legal.qnfo.org/
+QNFO Unified License Agreement (QNFO-ULA v2.1): see [LICENSE](LICENSE); https://legal.qnfo.org/
 
 ## Protocol Compliance (research v2.4)
 
