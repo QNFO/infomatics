@@ -1,3 +1,5 @@
+> **MOVED (2026-11-04):** this repository is archived. Its content and history now live in [QNFO/qnfo-research/infomatics](https://github.com/QNFO/qnfo-research/tree/main/infomatics).
+
 # Infomatics
 
 > **Mathematics of Information-as-Fundamental | Status: ACTIVE (Phase 0)**
